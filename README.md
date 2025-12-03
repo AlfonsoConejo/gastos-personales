@@ -2,6 +2,11 @@
 
 Con el control de gastos personales puedes llevar un registro de todos los gastos que haz realizado y mientras te mantienes dentro de tu presupuesto. Así, con cada nuevo gasto agregado, el sistema te muestra con una barra dinámica el presupuesto que te queda libre.
 
+<img width="1920" height="913" alt="imagen" src="https://github.com/user-attachments/assets/b54a3c63-da08-4fe1-bfbe-0276a76b5e17" />
+
+<img width="1920" height="913" alt="imagen" src="https://github.com/user-attachments/assets/5d19a119-881b-4026-ad32-53bda1ad9e7c" />
+
+
 ## Características
 - **Tema**: cambia entre el tema claro y oscuro.
 - **Guarda un presupuesto**: crea, edita y elimina todos los gastos que necesites. 
