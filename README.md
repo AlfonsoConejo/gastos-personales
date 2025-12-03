@@ -4,7 +4,8 @@ Con el control de gastos personales puedes llevar un registro de todos los gasto
 
 <img width="1920" height="913" alt="imagen" src="https://github.com/user-attachments/assets/b54a3c63-da08-4fe1-bfbe-0276a76b5e17" />
 
-<img width="1920" height="913" alt="imagen" src="https://github.com/user-attachments/assets/5d19a119-881b-4026-ad32-53bda1ad9e7c" />
+<img width="1920" height="913" alt="imagen" src="https://github.com/user-attachments/assets/5c3a2dea-c402-4ca2-8134-d3f97b86a933" />
+
 
 
 ## Características
